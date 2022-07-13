@@ -199,6 +199,7 @@ export const RegistrationForm = ({
             labelText={[
               "I accept ",
               <a
+                key={1}
                 href='https://www.monterail.com/privacy-policy'
                 target='_blank'>
                 Privacy Policy

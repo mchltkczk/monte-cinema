@@ -1,6 +1,6 @@
 # monte-cinema
 
-Multistep registration form => [check how it works](https://monterail-cinema.netlify.app/)
+Multistep registration form => [check how it works](https://monterail-cinema.netlify.app/){:target="_blank"}
 
 # How To Use:
 

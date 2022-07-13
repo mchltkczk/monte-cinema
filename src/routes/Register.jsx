@@ -47,7 +47,7 @@ export const Register = () => {
       ? formStepCounter < 3
         ? setFormStepCounter(formStepCounter + 1)
         : navigate("/")
-      : console.log(formStepCounter);
+      : null;
     return;
   };
 
@@ -64,6 +64,7 @@ export const Register = () => {
       <StyledPageWrapper>
         <main>
           <PageTitle
+            formStepCounter={formStepCounter}
             row1={
               (formStepCounter === 1 && "Ahoy you!") ||
               (formStepCounter === 2 && "Great!") ||
