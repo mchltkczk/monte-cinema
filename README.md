@@ -8,7 +8,7 @@ To clone and run this application, you'll need Git and Node.js (which comes with
 
 ## Clone this repository:
 
-$ git clone git@github.com:mchltkczk/monte-cinema.git
+$ git clone https://github.com/mchltkczk/monte-cinema.git
 
 ## Go into the repository:
 
